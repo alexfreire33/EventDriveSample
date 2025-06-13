@@ -1,0 +1,6 @@
+@EventDriveSample.Api_HostAddress = http://localhost:5107
+
+GET {{EventDriveSample.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
